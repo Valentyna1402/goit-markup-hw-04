@@ -129,7 +129,6 @@ ol {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding: 24px 0;
 }
 
 .header-contacts-link {
@@ -185,8 +184,6 @@ ol {
   line-height: 1.07;
   letter-spacing: var(--standart-letter-spacing);
   text-align: center;
-  display: flex;
-  flex-wrap: wrap;
   max-width: 496px;
   margin: 0 auto 48px auto;
 }
@@ -445,13 +442,6 @@ ol {
   letter-spacing: var(--standart-letter-spacing);
   color: var(--cloud-color);
   max-width: 264px;
-}
-
-.footer-soc-wrap {
-  display: flex;
-  align-items: baseline;
-  flex-wrap: wrap;
-  max-width: 208px;
 }
 
 .footer-soc-text {
